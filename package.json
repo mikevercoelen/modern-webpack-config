@@ -1,0 +1,16 @@
+{
+  "name": "modern-webpack-config",
+  "version": "1.0.0",
+  "description": "Helper library for creating a webpack config using modern loaders + plugins (babel, react etc.)",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomgrooffer/modern-webpack-config.git"
+  },
+  "author": "Mike Vercoelen <mike.vercoelen@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomgrooffer/modern-webpack-config/issues"
+  },
+  "homepage": "https://github.com/tomgrooffer/modern-webpack-config#readme"
+}
